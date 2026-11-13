@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-12T17:21:48.654233+00:00",
+  "updated_at": "2026-11-13T01:41:27.428463+00:00",
   "data_referencia": "2026-11-12",
   "airport_icao": "SBVG",
   "airport_name": "SBVG",
   "airport_info": {
-    "sg_aerodromo_icao": "SBVG",
-    "sg_aerodromo_iata": "VAG",
-    "descricao": "MAJOR BRIGADEIRO TROMPOWSKY - VARGINHA - MG - BRASIL"
+    "sg_aerodromo_icao": "SBMG",
+    "sg_aerodromo_iata": "MGF",
+    "descricao": "SÍLVIO NAME JÚNIOR - MARINGÁ - PR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
